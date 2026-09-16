@@ -1,0 +1,121 @@
+SABLE & SEQUIN - IMAGE CREDITS
+==============================
+Every file below was downloaded before it was referenced in any markup and is
+served from this site's own folder. Nothing is hotlinked and no remote URL
+appears in a src attribute anywhere on this site.
+
+All photographs are licensed stock images under the Pexels License: free for
+commercial use, modification permitted, no attribution required. We credit the
+photographers anyway. Every file was reviewed before use and rejected if it
+showed a legible brand mark or trademark, a recognizable public figure, or a
+minor.
+
+These are illustrative photographs. No photograph on this site shows a garment
+we own, and no caption claims a dress in a picture is the dress being discussed.
+See the About page, 'About the photographs'.
+
+hero/hero-three-dresses.jpg
+    source      : https://www.pexels.com/photo/dresses-on-a-wooden-rack-against-a-dark-wall-1148957/
+    direct file : https://images.pexels.com/photos/1148957/pexels-photo-1148957.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Kowalievska
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1100x733   size: 125KB
+
+guides/guide-wedding-guest.jpg
+    source      : https://www.pexels.com/photo/well-dressed-guests-at-an-outdoor-wedding-reception-16710965/
+    direct file : https://images.pexels.com/photos/16710965/pexels-photo-16710965.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Rene Terp
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 61KB
+
+guides/guide-black-tie-optional.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-red-evening-dress-by-a-railing-34011683/
+    direct file : https://images.pexels.com/photos/34011683/pexels-photo-34011683.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Felix Young
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 39KB
+
+guides/guide-derby.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-beige-dress-and-wide-brim-hat-14866590/
+    direct file : https://images.pexels.com/photos/14866590/pexels-photo-14866590.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Samir
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 53KB
+
+guides/guide-holiday.jpg
+    source      : https://www.pexels.com/photo/sequined-dress-hanging-in-dramatic-light-10330191/
+    direct file : https://images.pexels.com/photos/10330191/pexels-photo-10330191.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Ron Lach
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 99KB
+
+guides/guide-rental.jpg
+    source      : https://www.pexels.com/photo/collection-of-elegant-dresses-on-a-rack-1148960/
+    direct file : https://images.pexels.com/photos/1148960/pexels-photo-1148960.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Kowalievska
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 82KB
+
+guides/guide-alterations.jpg
+    source      : https://www.pexels.com/photo/measuring-a-dress-with-a-tape-for-fitting-8526968/
+    direct file : https://images.pexels.com/photos/8526968/pexels-photo-8526968.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Karola G
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 110KB
+
+lookbook/look-01.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-red-gown-against-a-dark-background-29080965/
+    direct file : https://images.pexels.com/photos/29080965/pexels-photo-29080965.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Gursher Gill
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 700x1050   size: 55KB
+
+lookbook/look-02.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-black-evening-dress-at-a-balustrade-18979042/
+    direct file : https://images.pexels.com/photos/18979042/pexels-photo-18979042.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Tremaine Thomas
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 700x1050   size: 98KB
+
+lookbook/look-03.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-grey-surplice-sleeveless-dress-1530171/
+    direct file : https://images.pexels.com/photos/1530171/pexels-photo-1530171.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Darcy Delia
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 700x1050   size: 56KB
+
+lookbook/look-04.jpg
+    source      : https://www.pexels.com/photo/woman-in-a-polka-dot-dress-with-a-wide-brim-hat-8751000/
+    direct file : https://images.pexels.com/photos/8751000/pexels-photo-8751000.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Anna Zaykina
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 700x1050   size: 102KB
+
+people/editor-portrait.jpg
+    source      : https://www.pexels.com/photo/portrait-of-a-woman-in-black-on-a-brown-backdrop-30198184/
+    direct file : https://images.pexels.com/photos/30198184/pexels-photo-30198184.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Biola Visuals
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 460x575   size: 33KB
+
+people/contributor-portrait.jpg
+    source      : https://www.pexels.com/photo/portrait-of-a-woman-in-a-black-suit-34330864/
+    direct file : https://images.pexels.com/photos/34330864/pexels-photo-34330864.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: This Is Jooh
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 460x575   size: 19KB
+
+guides/detail-sequin.jpg
+    source      : https://www.pexels.com/photo/gold-sequin-fabric-with-sheer-tulle-6276024/
+    direct file : https://images.pexels.com/photos/6276024/pexels-photo-6276024.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Karola G
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 121KB
+
+og/og-sable-and-sequin.jpg
+    source      : https://www.pexels.com/photo/peach-and-sequin-dresses-on-coathangers-15893780/
+    direct file : https://images.pexels.com/photos/15893780/pexels-photo-15893780.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Alina Komarevska
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1200x630   size: 99KB
+

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img"
+     aria-label="Sable and Sequin">
+  <rect width="32" height="32" fill="#151221"/>
+  <path d="M16 3c4.7 5 7.5 9.6 7.5 14.4C23.5 23.3 20.3 27.6 16 30c-4.3-2.4-7.5-6.7-7.5-12.6
+           C8.5 12.6 11.3 8 16 3z" fill="none" stroke="#CBA96A" stroke-width="1.9"/>
+  <circle cx="16" cy="16.5" r="3" fill="#CBA96A"/>
+</svg>

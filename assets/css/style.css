@@ -1,0 +1,839 @@
+@charset "utf-8";
+/* ==========================================================================
+   SELF-HOSTED WEB FONTS
+   Served from assets/fonts/ on this site's own origin. These pages make
+   NO external requests of any kind: no Google Fonts, no CDN, no analytics,
+   no scripts, and every image is a local file.
+
+   Where Google offers a variable font one file covers the whole weight
+   axis, which is both smaller than the separate static weights and what
+   makes the opsz axis used below actually do something. The declared
+   weight range is wider than this site uses on purpose: it is byte for
+   byte the same file and it guarantees the browser never synthesizes a
+   weight it was not given.
+
+   Only latin and latin-ext are included. The unicode-range on each rule
+   means a browser downloads only the files a page actually needs.
+   ========================================================================== */
+/* Cormorant 300 — latin-ext */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/cormorant-300-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Cormorant 300 — latin */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/cormorant-300-latin.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Cormorant 400 — latin-ext */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cormorant-400-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Cormorant 400 — latin */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/cormorant-400-latin.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Cormorant 500 — latin-ext */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/cormorant-500-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Cormorant 500 — latin */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/cormorant-500-latin.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Cormorant 600 — latin-ext */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/cormorant-600-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Cormorant 600 — latin */
+@font-face {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/cormorant-600-latin.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Jost 100-900 variable — latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/jost-100-900-latin-ext.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* Jost 100-900 variable — latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/jost-100-900-latin.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ==========================================================================
+   SABLE & SEQUIN — sableandsequin.com
+   Nashville, TN. Occasion and event dressing.
+
+   Organizing idea: LOW LIGHT ON FABRIC. The page is a dark room at nine in the
+   evening. Wide margins, one column, very large light Cormorant used centred in
+   the hero and nowhere else on the site. The signature component is a FORMALITY
+   RULER: six American dress codes placed in order along a single line, each one
+   a link that lights the matching entry in the decoder below it, using :target
+   and no JavaScript.
+
+   Contents
+   0.  Self-hosted web fonts
+   1.  Tokens
+   2.  Reset and base
+   3.  Room: wrap, sections, headings
+   4.  Masthead and navigation
+   5.  Hero: three dresses on a rail
+   6.  The formality ruler
+   7.  The decoder
+   8.  Rail: looks and figures
+   9.  Prose, lists, tables, disclosure
+   10. Index rows and buttons
+   11. Forms
+   12. Advertising slots
+   13. Footer
+   14. Utilities
+   15. Responsive
+   16. Reduced motion and print
+   ========================================================================== */
+
+/* -------------------------------------------------------------- 1. Tokens */
+:root {
+  /* palette */
+  --midnight:  #151221;
+  --plum:      #3A2033;
+  --champagne: #CBA96A;
+  --blush:     #E3D6D2;
+  --dim:       #B0A4AC;   /* derived: 7.7:1 on midnight, secondary text      */
+  --edge:      #7A6880;   /* derived: 3.6:1 on midnight, structural borders  */
+  --hair:      #3D3540;   /* derived: soft separation inside a dark panel    */
+  --ink:       #151221;   /* text on blush and champagne panels              */
+
+  /* type */
+  --display: "Cormorant", "Cormorant Garamond", Garamond, Georgia, serif;
+  --text: "Jost", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Helvetica, Arial, sans-serif;
+
+  /* 1.250 scale, fluid */
+  --t-xs:   0.75rem;
+  --t-sm:   0.8125rem;
+  --t-base: clamp(1rem, 0.95rem + 0.22vw, 1.0625rem);
+  --t-md:   clamp(1.125rem, 1.05rem + 0.32vw, 1.25rem);
+  --t-lg:   clamp(1.375rem, 1.24rem + 0.58vw, 1.75rem);
+  --t-xl:   clamp(1.75rem, 1.5rem + 1.1vw, 2.5rem);
+  --t-2xl:  clamp(2.25rem, 1.7rem + 2.4vw, 3.75rem);
+  --t-3xl:  clamp(3rem, 1.9rem + 4.8vw, 6.5rem);
+
+  /* spacing, 4px base */
+  --s1: 0.25rem;  --s2: 0.5rem;   --s3: 0.75rem;  --s4: 1rem;
+  --s5: 1.5rem;   --s6: 2rem;     --s7: 3rem;     --s8: 4.5rem;
+  --s9: 7rem;
+
+  --measure: 35rem;
+  --page: 66rem;        /* deliberately narrow: the margins are the design */
+  --tap: 2.75rem;
+}
+
+/* ------------------------------------------------------ 2. Reset and base */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--midnight);
+  color: var(--blush);
+  font-family: var(--text);
+  font-size: var(--t-base);
+  font-weight: 300;
+  line-height: 1.75;
+  font-synthesis-weight: none;
+}
+
+h1, h2, h3, h4, h5, h6 { margin: 0; font-weight: 400; color: var(--blush); }
+
+h1, h2 {
+  font-family: var(--display);
+  font-weight: 300;
+  line-height: 1.04;
+  letter-spacing: -0.005em;
+}
+h1 { font-size: var(--t-2xl); }
+h2 { font-size: var(--t-xl); }
+
+h3 {
+  font-family: var(--text);
+  font-size: var(--t-md);
+  font-weight: 500;
+  line-height: 1.3;
+}
+h4, h5, h6 { font-family: var(--text); font-size: var(--t-sm); font-weight: 500; }
+
+p, ul, ol, dl, table, figure, blockquote { margin: 0 0 var(--s5); }
+
+a {
+  color: var(--champagne);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+a:hover { color: var(--blush); }
+
+img, svg, video { max-width: 100%; height: auto; display: block; }
+strong, b { font-weight: 500; color: var(--blush); }
+small { font-size: var(--t-sm); }
+
+hr { border: 0; border-top: 1px solid var(--edge); margin: var(--s7) 0; }
+
+::selection { background: var(--champagne); color: var(--midnight); }
+
+:focus-visible { outline: 2px solid var(--champagne); outline-offset: 3px; }
+
+.skip {
+  position: absolute;
+  left: var(--s4);
+  top: -4rem;
+  z-index: 50;
+  background: var(--champagne);
+  color: var(--midnight);
+  padding: var(--s3) var(--s5);
+  font-size: var(--t-sm);
+  font-weight: 500;
+  text-decoration: none;
+}
+.skip:focus { top: var(--s4); }
+
+/* -------------------------------------- 3. Room: wrap, sections, headings */
+.wrap {
+  width: 100%;
+  max-width: var(--page);
+  margin-inline: auto;
+  padding-inline: var(--s6);
+}
+.wrap--narrow { max-width: 46rem; }
+
+.room { padding-block: var(--s8); }
+.room--tight { padding-block: var(--s7); }
+.room--plum { background: var(--plum); }
+.room--lit { background: var(--blush); color: var(--ink); }
+.room--lit h1, .room--lit h2, .room--lit h3, .room--lit strong { color: var(--ink); }
+.room--lit a { color: #6C4A11; }
+.room--lit .muted { color: #55495A; }
+
+/* A section opens with a hairline, a small label and a left-aligned heading.
+   Centred display type appears once on this site, in the hero, and the rule
+   here is what keeps that promise. */
+.room__head {
+  border-top: 1px solid var(--edge);
+  padding-top: var(--s4);
+  margin-bottom: var(--s6);
+}
+.room__label {
+  font-size: var(--t-xs);
+  color: var(--champagne);
+  margin: 0 0 var(--s3);
+  font-weight: 400;
+}
+.room--lit .room__label { color: #6C4A11; }
+
+.lede {
+  font-size: var(--t-md);
+  line-height: 1.6;
+  max-width: var(--measure);
+  color: var(--blush);
+}
+.room--lit .lede { color: var(--ink); }
+.dateline { font-size: var(--t-sm); color: var(--dim); }
+.room--lit .dateline { color: #55495A; }
+
+/* ------------------------------------------- 4. Masthead and navigation */
+.masthead { background: var(--midnight); border-bottom: 1px solid var(--hair); }
+.masthead__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s4);
+  padding-block: var(--s5);
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  color: var(--blush);
+  text-decoration: none;
+  min-height: var(--tap);
+}
+.brand__mark { width: 30px; height: 34px; flex: none; color: var(--champagne); }
+.brand__name {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1;
+  letter-spacing: 0.01em;
+}
+.brand__name span {
+  display: block;
+  font-family: var(--text);
+  font-weight: 300;
+  font-size: var(--t-xs);
+  color: var(--dim);
+  letter-spacing: 0.02em;
+  margin-top: 3px;
+}
+
+.nav__toggle { position: absolute; opacity: 0; pointer-events: none; }
+.nav__label {
+  display: none;
+  min-height: var(--tap);
+  min-width: var(--tap);
+  align-items: center;
+  padding: 0 var(--s4);
+  border: 1px solid var(--edge);
+  color: var(--blush);
+  font-size: var(--t-sm);
+  cursor: pointer;
+}
+.nav__toggle:focus-visible + .nav__label { outline: 2px solid var(--champagne); outline-offset: 3px; }
+
+.nav__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s5);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav__list a {
+  color: var(--blush);
+  text-decoration: none;
+  font-size: var(--t-sm);
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  min-height: var(--tap);
+  border-bottom: 1px solid transparent;
+}
+.nav__list a:hover { border-bottom-color: var(--blush); }
+.nav__list a[aria-current="page"] { border-bottom-color: var(--champagne); color: var(--champagne); }
+
+/* ------------------------------------- 5. Hero: three dresses on a rail */
+.hero { padding-block: var(--s7) var(--s8); }
+.hero__inner { text-align: center; }
+.hero__title {
+  font-family: var(--display);
+  font-weight: 300;
+  font-size: var(--t-3xl);
+  line-height: 0.95;
+  margin: 0 auto var(--s5);
+  max-width: 16ch;
+}
+.hero__intro {
+  font-size: var(--t-md);
+  line-height: 1.6;
+  max-width: 34rem;
+  margin: 0 auto var(--s7);
+  color: var(--dim);
+}
+.hero__figure { margin: 0 0 var(--s6); }
+.hero__figure img { width: 100%; }
+.hero__figure figcaption {
+  font-size: var(--t-sm);
+  color: var(--dim);
+  text-align: left;
+  border-top: 1px solid var(--hair);
+  padding-top: var(--s3);
+  margin-top: var(--s4);
+}
+
+/* The three answers under the rail. Left-aligned, because only the title is
+   centred. */
+.answers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: var(--s6);
+  text-align: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.answers li { border-top: 1px solid var(--champagne); padding-top: var(--s3); }
+.answers b {
+  display: block;
+  font-family: var(--display);
+  font-size: var(--t-lg);
+  font-weight: 400;
+  color: var(--blush);
+  margin-bottom: var(--s2);
+}
+.answers span { font-size: var(--t-sm); color: var(--dim); }
+
+/* -------------------------------------------------- 6. The formality ruler */
+/* Six American dress codes in order of formality along one line. Each stop
+   links to its entry below, which lights up with :target. The line means
+   something: left is least formal, right is most. */
+.ruler {
+  list-style: none;
+  margin: 0 0 var(--s7);
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  border-top: 1px solid var(--edge);
+}
+.ruler li { margin: 0; }
+.ruler a {
+  display: block;
+  padding: var(--s4) var(--s2) var(--s3);
+  min-height: var(--tap);
+  color: var(--blush);
+  text-decoration: none;
+  font-size: var(--t-sm);
+  border-top: 3px solid transparent;
+  margin-top: -1px;
+}
+.ruler a:hover { border-top-color: var(--champagne); color: var(--champagne); }
+.ruler__n {
+  display: block;
+  font-family: var(--display);
+  font-size: var(--t-lg);
+  color: var(--champagne);
+  line-height: 1;
+  margin-bottom: var(--s2);
+}
+.ruler__ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--t-xs);
+  color: var(--dim);
+  margin: calc(var(--s7) * -1 + var(--s2)) 0 var(--s7);
+}
+
+/* ------------------------------------------------------- 7. The decoder */
+.decoder { display: grid; gap: var(--s6); margin: 0 0 var(--s6); padding: 0; }
+.code {
+  border: 1px solid var(--hair);
+  border-left: 3px solid var(--edge);
+  padding: var(--s5) var(--s6);
+  scroll-margin-top: var(--s5);
+}
+.code:target { border-left-color: var(--champagne); background: var(--plum); }
+.code h3 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: var(--t-lg);
+  margin-bottom: var(--s2);
+}
+.code__rank { font-size: var(--t-xs); color: var(--champagne); margin: 0 0 var(--s4); }
+.code dl {
+  display: grid;
+  grid-template-columns: minmax(6.5rem, 9rem) minmax(0, 1fr);
+  gap: var(--s2) var(--s5);
+  margin: 0;
+  font-size: var(--t-sm);
+}
+.code dt { color: var(--dim); }
+.code dd { margin: 0; }
+.code dd strong { font-weight: 500; }
+
+/* ------------------------------------------------ 8. Rail: looks, figures */
+.rail {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: var(--s6);
+}
+.rail figure { margin: 0; }
+.rail img { width: 100%; }
+.rail figcaption {
+  font-size: var(--t-sm);
+  color: var(--dim);
+  border-top: 1px solid var(--champagne);
+  padding-top: var(--s3);
+  margin-top: var(--s3);
+}
+.rail figcaption b {
+  display: block;
+  font-family: var(--display);
+  font-size: var(--t-md);
+  font-weight: 400;
+  color: var(--blush);
+  margin-bottom: var(--s1);
+}
+
+figure { margin: 0 0 var(--s5); }
+figure img { width: 100%; }
+figcaption {
+  font-size: var(--t-sm);
+  color: var(--dim);
+  border-top: 1px solid var(--hair);
+  padding-top: var(--s3);
+  margin-top: var(--s3);
+}
+.room--lit figcaption { color: #55495A; border-top-color: #C6B6B1; }
+
+/* -------------------------- 9. Prose, lists, tables, disclosure */
+.prose { max-width: var(--measure); }
+.prose > * + h2 { margin-top: var(--s8); }
+.prose > * + h3 { margin-top: var(--s6); }
+.prose h2 { border-top: 1px solid var(--edge); padding-top: var(--s4); }
+.prose h2 + p, .prose h3 + p { margin-top: var(--s3); }
+.prose ul, .prose ol { padding-left: var(--s5); }
+.prose li { margin-bottom: var(--s3); }
+.prose li::marker { color: var(--champagne); }
+.prose /* position: relative matters. These tables contain .visually-hidden spans,
+   and an absolutely positioned box is only clipped by an ancestor's
+   overflow when that ancestor is its containing block. Without it the
+   hidden labels escape the scroller at the table's full width and the
+   whole page scrolls sideways on a phone. */
+.table-scroll, .prose figure, .prose .decoder { max-width: none; }
+
+blockquote {
+  border-left: 1px solid var(--champagne);
+  padding-left: var(--s5);
+  margin-left: 0;
+  font-family: var(--display);
+  font-size: var(--t-lg);
+  font-weight: 300;
+  line-height: 1.35;
+}
+blockquote p:last-child { margin-bottom: 0; }
+blockquote cite {
+  display: block;
+  font-family: var(--text);
+  font-size: var(--t-sm);
+  font-style: normal;
+  color: var(--dim);
+  margin-top: var(--s3);
+}
+
+.table-scroll { overflow-x: auto; position: relative; margin-bottom: var(--s5); }
+.data {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 34rem;
+  font-size: var(--t-sm);
+  font-variant-numeric: tabular-nums;
+}
+.data caption { text-align: left; padding-bottom: var(--s3); color: var(--dim); }
+.room--lit .data caption { color: #55495A; }
+.data th, .data td {
+  text-align: left;
+  padding: var(--s3) var(--s5) var(--s3) 0;
+  border-bottom: 1px solid var(--hair);
+  vertical-align: top;
+}
+.room--lit .data th, .room--lit .data td { border-bottom-color: #C6B6B1; }
+.data thead th { border-bottom: 1px solid var(--champagne); font-weight: 500; }
+.data tbody th { font-weight: 400; color: var(--blush); }
+.room--lit .data tbody th { color: var(--ink); }
+.data td.num { text-align: right; padding-right: var(--s6); }
+
+details { border-top: 1px solid var(--hair); padding-block: var(--s1); }
+details:last-of-type { border-bottom: 1px solid var(--hair); }
+summary {
+  cursor: pointer;
+  list-style: none;
+  padding: var(--s3) var(--s6) var(--s3) 0;
+  min-height: var(--tap);
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  position: relative;
+}
+summary::-webkit-details-marker { display: none; }
+summary::after {
+  content: "+";
+  position: absolute;
+  right: var(--s2);
+  font-size: var(--t-md);
+  font-weight: 300;
+  color: var(--champagne);
+}
+details[open] summary::after { content: "\2212"; }
+details > p:last-child { padding-bottom: var(--s3); }
+
+.callout {
+  border: 1px solid var(--edge);
+  padding: var(--s5) var(--s6);
+  margin-bottom: var(--s6);
+}
+.callout p:last-child { margin-bottom: 0; }
+
+/* FTC disclosure. Above the first affiliate link, never only in the footer. */
+.disclose {
+  border: 1px solid var(--champagne);
+  padding: var(--s4) var(--s5);
+  font-size: var(--t-sm);
+  margin-bottom: var(--s6);
+}
+
+.addr {
+  font-size: var(--t-sm);
+  line-height: 1.9;
+  border-top: 1px solid var(--champagne);
+  padding-top: var(--s4);
+  margin-top: var(--s6);
+}
+
+/* ----------------------------------------------- 10. Index rows, buttons */
+.index { list-style: none; margin: 0; padding: 0; }
+.index__row {
+  display: grid;
+  grid-template-columns: 12rem minmax(0, 1fr);
+  gap: var(--s6);
+  border-top: 1px solid var(--hair);
+  padding-block: var(--s6);
+}
+.index__row:last-child { border-bottom: 1px solid var(--hair); }
+.index__row img { width: 100%; }
+.index__body { min-width: 0; }
+.index__body h3 { margin-bottom: var(--s2); }
+.index__body h3 a { color: var(--blush); text-decoration-color: var(--champagne); }
+.index__body h3 a:hover { color: var(--champagne); }
+.index__body p { margin-bottom: var(--s3); }
+.index__facts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2) var(--s5);
+  font-size: var(--t-xs);
+  color: var(--dim);
+}
+.index__facts li { margin: 0; }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--tap);
+  padding: 0 var(--s6);
+  background: transparent;
+  color: var(--champagne);
+  border: 1px solid var(--champagne);
+  font-size: var(--t-sm);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  transition: background 140ms linear, color 140ms linear;
+}
+.btn:hover { background: var(--champagne); color: var(--midnight); }
+.btn--solid { background: var(--champagne); color: var(--midnight); }
+.btn--solid:hover { background: var(--blush); border-color: var(--blush); color: var(--midnight); }
+.room--lit .btn { color: #6C4A11; border-color: #6C4A11; }
+.room--lit .btn:hover { background: var(--ink); border-color: var(--ink); color: var(--blush); }
+
+/* ------------------------------------------------------------- 11. Forms */
+.form { max-width: var(--measure); }
+.form__row { margin-bottom: var(--s5); }
+label { display: block; font-size: var(--t-sm); font-weight: 500; margin-bottom: var(--s2); }
+input[type="text"], input[type="email"], select, textarea {
+  width: 100%;
+  min-height: var(--tap);
+  padding: var(--s2) var(--s3);
+  font: inherit;
+  font-size: var(--t-sm);
+  color: var(--blush);
+  background: var(--plum);
+  border: 1px solid var(--edge);
+  border-radius: 0;
+}
+textarea { min-height: 9rem; resize: vertical; }
+.form__note { font-size: var(--t-sm); color: var(--dim); }
+
+/* -------------------------------------------------- 12. Advertising slots */
+/* Reserved at the exact IAB dimensions so nothing moves when a creative
+   loads. Left empty on purpose: no ad code is pasted into this site. */
+.ad-slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline: auto;
+  border: 1px solid var(--edge);
+  color: var(--dim);
+}
+.ad-slot__label { font-size: var(--t-xs); letter-spacing: 0.06em; }
+.ad-slot--leaderboard { width: 100%; max-width: 728px; height: 90px; margin-block: var(--s6); }
+.ad-slot--inline { width: 100%; max-width: 336px; height: 280px; margin-block: var(--s7); }
+.ad-slot--rectangle { width: 100%; max-width: 300px; height: 250px; margin-block: var(--s7); }
+.room--lit .ad-slot { border-color: #C6B6B1; color: #55495A; }
+
+/* ------------------------------------------------------------ 13. Footer */
+.foot {
+  background: var(--plum);
+  padding-block: var(--s8) var(--s6);
+  margin-top: var(--s9);
+  border-top: 1px solid var(--champagne);
+}
+.foot__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: var(--s6) var(--s5);
+}
+.foot h2, .foot h3 {
+  font-family: var(--display);
+  font-size: var(--t-md);
+  font-weight: 400;
+  color: var(--champagne);
+  margin-bottom: var(--s3);
+}
+.foot ul { list-style: none; margin: 0; padding: 0; }
+.foot li { margin-bottom: var(--s1); }
+.foot a {
+  color: var(--blush);
+  text-decoration: none;
+  font-size: var(--t-sm);
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+}
+.foot a:hover { color: var(--champagne); text-decoration: underline; }
+.foot p { font-size: var(--t-sm); color: var(--dim); }
+.foot__legal {
+  border-top: 1px solid var(--edge);
+  margin-top: var(--s7);
+  padding-top: var(--s5);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s3) var(--s6);
+  justify-content: space-between;
+  font-size: var(--t-sm);
+  color: var(--dim);
+}
+.foot__legal p { margin: 0; }
+
+/* --------------------------------------------------------- 14. Utilities */
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+.mt5 { margin-top: var(--s5); }
+.mt6 { margin-top: var(--s6); }
+.mt7 { margin-top: var(--s7); }
+.mb0 { margin-bottom: 0; }
+.small { font-size: var(--t-sm); }
+.muted { color: var(--dim); }
+.cols-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: var(--s7);
+}
+.people {
+  display: grid;
+  grid-template-columns: 10rem minmax(0, 1fr);
+  gap: var(--s6);
+  align-items: start;
+  margin-bottom: var(--s6);
+}
+.people img { width: 100%; }
+.guide-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 19rem;
+  gap: var(--s7);
+  align-items: start;
+}
+
+/* -------------------------------------------------------- 15. Responsive */
+@media (max-width: 56rem) {
+  .guide-head { grid-template-columns: 1fr; }
+  .guide-head figure { max-width: 22rem; }
+  .ruler { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .ruler li:nth-child(n+4) a { border-top: 1px solid var(--hair); }
+  .ruler__ends { display: none; }
+}
+@media (max-width: 52rem) {
+  .nav__label { display: inline-flex; }
+  .nav__list {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    gap: 0;
+    border-top: 1px solid var(--hair);
+    margin-top: var(--s4);
+  }
+  .nav__toggle:checked ~ .nav__list { display: flex; }
+  .nav__list li { border-bottom: 1px solid var(--hair); }
+  .nav__list a { width: 100%; border-bottom: 0; }
+  .masthead__inner nav { width: 100%; }
+}
+@media (max-width: 44rem) {
+  .index__row { grid-template-columns: 7.5rem minmax(0, 1fr); gap: var(--s4); }
+  .people { grid-template-columns: 8rem minmax(0, 1fr); gap: var(--s5); }
+  .code dl { grid-template-columns: 1fr; gap: var(--s1) 0; }
+  .code dt { margin-top: var(--s3); }
+}
+@media (max-width: 34rem) {
+  .wrap { padding-inline: var(--s4); }
+  .ruler { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .index__row { grid-template-columns: 1fr; }
+  .index__row img { max-width: 11rem; }
+  .people { grid-template-columns: 1fr; }
+  .people img { max-width: 10rem; }
+  .code { padding: var(--s4); }
+  .room { padding-block: var(--s7); }
+}
+
+/* --------------------------------------- 16. Reduced motion and print */
+/* No !important: the only transitions declared on this site are the two on
+   .btn and on links, so overriding them needs no extra specificity. */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .btn, a, .nav__list a { transition: none; }
+}
+
+@media print {
+  .masthead, .foot, .ad-slot, .skip, .ruler { display: none; }
+  body { background: #fff; color: #000; }
+  .room--plum, .room--lit { background: #fff; color: #000; }
+  h1, h2, h3, strong { color: #000; }
+  .hero__inner { text-align: left; }
+  a { color: #000; }
+}
